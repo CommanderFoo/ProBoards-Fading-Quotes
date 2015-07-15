@@ -1,0 +1,22 @@
+.fading_quote {
+
+    background: linear-gradient(to bottom, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 1.00) 80%);
+    cursor: pointer;
+    height: 80px;
+    left: 0px;
+    position: absolute;
+    right: 0px;
+    text-align: center;
+	border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    
+}
+
+.fading_quote span {
+ 
+    position: relative;
+    top: 65px;
+    font-size: 10px;
+    font-weight: bold;
+
+}
